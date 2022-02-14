@@ -1,0 +1,44 @@
+
+
+
+
+body{
+
+	text-align: center;
+	background-color: skyblue;
+	
+}
+h1{
+
+	color: lightgreen;
+}
+
+h2{
+	color: blue;
+}
+h3{
+	color: grey;
+}
+
+.flex-container {
+ display: flex;
+ padding-top: 50px;
+
+}
+
+.flex-container div {
+ background-color: white;
+ padding: 50px;
+ font-size: 15px;
+ border: 1px dashed blue;
+ margin: 0px 10px;
+ height: 400px;
+ padding-bottom: 10px;
+
+
+}
+
+footer{
+	padding-top: 30px;
+	background-color: violet;
+}
