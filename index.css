@@ -4,8 +4,12 @@
 
 body{
 
+
+
+	background-image: url(PHOTOS/HPB3.jpeg);
+
 	text-align: center;
-	background-color: skyblue;
+
 	
 }
 h1{
@@ -65,4 +69,5 @@ footer{
 	transition-delay:1s;
 	transition-duration: 2s;
 }
+
 
